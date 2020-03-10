@@ -187,3 +187,7 @@ iframe {
   position: absolute;
   top: 5%;
 }
+
+.card_image-container {
+  cursor: pointer;
+}
